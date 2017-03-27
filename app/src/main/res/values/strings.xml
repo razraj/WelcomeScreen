@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WelcomeScreen</string>
+    <string name="skip">SKIP</string>
+    <string name="next">NEXT</string>
+    <string name="slide_1_title">Welcome</string>
+    <string name="slide_1_desc">some welcome description</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
