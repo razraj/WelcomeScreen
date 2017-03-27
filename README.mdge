@@ -1,0 +1,9 @@
+# A simple and easy way to create intro/Welcome screen for your android application.
+
+Please make sure to include the library 
+https://github.com/ongakuer/CircleIndicator
+
+compile 'me.relex:circleindicator:1.2.2@aar'
+
+
+
